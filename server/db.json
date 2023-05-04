@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "fullname": "Yashar",
+      "photo": "https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "mobile": 5522733114,
+      "Email": "aghyashar2025@gmail.com",
+      "job": "Front-End developer",
+      "group": "3",
+      "id": 1
+    },
+    {
+      "fullname": "Umit",
+      "photo": "https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "mobile": 5646338890,
+      "Email": "omid.ebaadi@gmail.com",
+      "job": "Full-Stack Developer",
+      "group": "2",
+      "id": 2
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Workmate"
+    },
+    {
+      "id": 2,
+      "name": "Friend"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Service"
+    },
+    {
+      "id": 5,
+      "name": "Relative"
+    }
+  ]
+}

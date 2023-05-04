@@ -1,0 +1,11 @@
+
+export const BACKGROUND = "#282a36" 
+export const SELECTION = "#44475a "
+export const COMMENT= "#6272a4 "
+export const GREEN	= "#50fa7b" 	
+export const PINK   = "#ff79c6 "
+export const PURPLE	= "#bd93f9 "
+export const RED	= "#ff5555"	
+export const YELLOW = "#f1fa8c"	
+export const ORANGE = "#cc390c"
+export const CYAN   = "#18d1c8"

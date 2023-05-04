@@ -1,3 +1,7 @@
+# IMPORTANT 
+Don't forget to install node_modules inside src and server folders before running the project.!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
